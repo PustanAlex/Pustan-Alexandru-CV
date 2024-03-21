@@ -74,6 +74,7 @@ aside {
     gap: 30px;
     justify-content: center;
     align-content: center;
+
 }
 
 
@@ -94,7 +95,7 @@ main {
 }
 
 .description {
-    width: 400px;
+    width: 95%;
 }
 
 
